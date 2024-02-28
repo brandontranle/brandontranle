@@ -5,6 +5,12 @@
 
 <div align="center">
 
+# About Me
+I am a second-year Computer Science Undergraduate at UCLA! 24/7 I am a software developer or, more so, a full-stack developer who loves building web applications, but 7 days a week, I run like my life depends on it.
+</div>
+
+<div align="center">
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/brandon-tran-le) 
 
