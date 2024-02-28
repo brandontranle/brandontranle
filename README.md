@@ -6,7 +6,7 @@
 <div align="center">
 
 # About Me
-I am a second-year Computer Science Undergraduate at UCLA! 24/7 I am a software developer or, more so, a full-stack developer who loves building web applications, but 7 days a week, I run like my life depends on it. Check out my sick projects!
+I am a second-year Computer Science Undergraduate at UCLA! 24/7 I am a software engineer or, more so, a full-stack developer who loves building web applications, but 7 days a week, I run like my life depends on it. Check out my sick projects!
 </div>
 
 <div align="center">
