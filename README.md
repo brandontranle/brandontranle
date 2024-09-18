@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi there 👋 It's Brandon Le
-I am a second-year Computer Science Undergraduate at UCLA! 24/7 I am a software developer interested in cybersecurity, specifically application security and networks!
+I am a third-year Computer Science Undergraduate at UCLA! 24/7 I am a software developer interested in cybersecurity, specifically application security and networks!
 </div>
 
 <div align="center">
