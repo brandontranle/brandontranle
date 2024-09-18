@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi there 👋 It's Brandon Le
-I am a second-year Computer Science Undergraduate at UCLA! 24/7 I am a software engineer or, more so, a full-stack developer who loves building web applications, but 7 days a week, I run like my life depends on it. Check out my sick projects!
+I am a second-year Computer Science Undergraduate at UCLA! 24/7 I am a software developer interested in cybersecurity, specifically application security and networks!
 </div>
 
 <div align="center">
